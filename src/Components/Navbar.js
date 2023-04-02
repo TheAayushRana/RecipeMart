@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "./Images/logo.svg";
+import Logo from "../assets/logo.svg";
+
 export default function Navbar() {
   const imgStyle = {
     height: "35px",
